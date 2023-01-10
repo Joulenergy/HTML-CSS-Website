@@ -3,7 +3,8 @@ body{
 }
 
 h1{
-    font-size: 70px;
+    font-family: Caveat;
+    text-align: start;
 }
 
 input.icon{
