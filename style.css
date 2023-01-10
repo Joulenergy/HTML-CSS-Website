@@ -2,9 +2,14 @@ body{
     background-color: #ccffcc;
 }
 
+h1{
+    font-size: 70px;
+}
+
 input.icon{
     width: 60px;
     height: 70px;
+    margin: 5px;
 }
 
 div.navbar{
