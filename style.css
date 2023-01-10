@@ -7,8 +7,11 @@ input.icon{
     height: 70px;
 }
 
-div{
+div.navbar{
     background-color: #009900;
+}
+
+div{
     padding-left: 20px;
     padding-right: 20px;
     padding-bottom: 10px;
