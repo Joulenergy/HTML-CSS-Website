@@ -6,3 +6,10 @@ input.icon{
     width: 60px;
     height: 70px;
 }
+
+div{
+    background-color: #009900;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+}    
