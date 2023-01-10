@@ -9,7 +9,6 @@ h1{
 input.icon{
     width: 60px;
     height: 70px;
-    margin: 5px;
 }
 
 div.navbar{
@@ -20,6 +19,8 @@ div{
     padding-left: 30px;
     padding-right: 30px;
     padding-bottom: 15px;
+    padding-top: 15px;
+    background-color: #f2f2f2;
 }    
 
 img{
